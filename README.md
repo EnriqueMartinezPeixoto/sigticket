@@ -58,9 +58,9 @@ sigticket/
 - **Refatoração:** Remoção de senha hardcoded
   
 ## �� Equipe
-- [Nome Membro 1]
+- [Enrique Martinez]
 - [Matheus Victor]
-- [Nome Membro 3]
+- [Leandro Jaime]
 - [Nome Membro 4]
   
 ## �� Projeto
