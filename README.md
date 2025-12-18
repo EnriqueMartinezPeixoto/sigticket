@@ -59,7 +59,7 @@ sigticket/
   
 ## �� Equipe
 - [Nome Membro 1]
-- [Nome Membro 2]
+- [Matheus Victor]
 - [Nome Membro 3]
 - [Nome Membro 4]
   
